@@ -8,6 +8,4 @@
 
 ## Mobile View
 
-![](/screenshot/mobile_view.PNG)
-
-![](/screenshot/mobile_2.PNG)
+![](/screenshot/mobile_view.PNG)     ![](/screenshot/mobile_2.PNG)
